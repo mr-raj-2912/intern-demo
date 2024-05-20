@@ -1,2 +1,2 @@
 # intern-demo
-internship practice
+internship practice in mantra
